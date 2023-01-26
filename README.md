@@ -1,4 +1,5 @@
 Author: Derian Conteh-Morgan, 06/13/2019
+Edited: Nnamdi Massally, 01/25/2023
 
 The included solution contains 5 projects: 
   SafeAuto.Kata.Data
